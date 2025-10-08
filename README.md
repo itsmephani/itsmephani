@@ -1,6 +1,6 @@
 ### Hi there, I'm Phani 👋
 
-- 💻  Codes in: Java, Javascript, React, Angular, Scala, .Net, Ruby and Rails.
+- 💻  Codes in: Java, Javascript, Python, React, Angular, Scala, .Net, Ruby and Rails.
 - 🔭  I’m currently working on AI, Python, Java, React, Angular.
 - 🌱  I’m currently learning AI.
 - 👯  I’m looking to collaborate on Python, AI, Java, Javascript.

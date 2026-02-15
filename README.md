@@ -4,6 +4,6 @@
 - 🔭  I’m currently working on AI, Python, Java, React, Angular.
 - 🌱  I’m currently learning AI.
 - 👯  I’m looking to collaborate on Python, AI, Java, Javascript.
-- 📫  How to reach me: vs3.phani@gmail.com (or) https://www.linkedin.com/in/tumuluriphanikumar (or) +91-9394862144.
+- 📫  How to reach me: vs3.phani@gmail.com (or) https://www.linkedin.com/in/tumuluriphanikumar.
 - 😄  Pronouns: He/His/Him.
 - ⚡  Fun fact: I lost 25kgs a while ago.
